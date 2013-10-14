@@ -2,6 +2,7 @@ package javaHW;
 
 import java.io.IOException;
 
+// gitHub‚ÅŠÇ—‚µ‚Ä‚¢‚Ü‚·B
 public class test {
 
 	/**
